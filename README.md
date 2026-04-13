@@ -1,4 +1,18 @@
 # Release Note
+## app-release(7/04/2026)
+ 
+1. Room control pad
+1. Room audio chat
+1. Room names and hashtags
+1. Guest accounts
+
+Some features may be released next week:
+- Pattern creation
+- Search filters: Filter rooms by name or hashtag
+- UI settings
+  
+[ParadiseV1.0.1](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/app_release_7_apr.apk.zip)
+---
 ## app-release(31/03/2026)
 1. Create account, forgot password, verify OTP
 2. Google OAuth2
