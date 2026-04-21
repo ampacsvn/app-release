@@ -1,6 +1,16 @@
 # Release Note
+## app-release(14/04/2026)
+1. Create pattern
+1. Fix play pattern
+1. Change language
+1. UI settings
+
+[ParadiseV1.0.2](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/app_release_14_apr.apk.zip)
+
+9 of 10 issues on the backlog will be fixed and released next week
+
+---
 ## app-release(7/04/2026)
- 
 1. Room control pad
 1. Room audio chat
 1. Room names and hashtags
@@ -10,7 +20,7 @@ Some features may be released next week:
 - Pattern creation
 - Search filters: Filter rooms by name or hashtag
 - UI settings
-  
+
 [ParadiseV1.0.1](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/app_release_7_apr.apk.zip)
 ---
 ## app-release(31/03/2026)
