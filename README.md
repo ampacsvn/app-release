@@ -4,7 +4,7 @@
 1. Fix play pattern
 1. Change language
 1. UI settings
-[ParadiseV1.0.3](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/APP/app_release_21_apr.apk.zip)
+[ParadiseV1.0.3](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_21_apr.apk.zip)
 
 ---
 ## app-release(14/04/2026)
@@ -13,7 +13,7 @@
 1. Change language
 1. UI settings
 
-[ParadiseV1.0.2](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/APP/app_release_14_apr.apk.zip)
+[ParadiseV1.0.2](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_14_apr.apk.zip)
 
 9 of 10 issues on the backlog will be fixed and released next week
 
@@ -29,7 +29,7 @@ Some features may be released next week:
 - Search filters: Filter rooms by name or hashtag
 - UI settings
 
-[ParadiseV1.0.1](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/APP/app_release_7_apr.apk.zip)
+[ParadiseV1.0.1](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_7_apr.apk.zip)
 ---
 ## app-release(31/03/2026)
 1. Create account, forgot password, verify OTP
