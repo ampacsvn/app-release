@@ -1,5 +1,5 @@
 # Release Note
-## app-release(14/04/2026)
+## app-release(21/04/2026)
 1. Implemented tickets from #1 to #10
 1. Simplify the UI
 1. Add the function to check the connectivity
