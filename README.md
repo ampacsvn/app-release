@@ -1,9 +1,10 @@
 # Release Note
 ## app-release(14/04/2026)
 1. Implemented tickets from #1 to #10
-1. Fix play pattern
-1. Change language
-1. UI settings
+1. Simplify the UI
+1. Add the function to check the connectivity
+1. Fix the bug of running with wrong device
+
 [ParadiseV1.0.3](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_21_apr.apk.zip)
 
 ---
