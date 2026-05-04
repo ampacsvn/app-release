@@ -1,4 +1,18 @@
 # Release Note
+## app-release(28/04/2026)
+1. Share and scan qr private room
+1. Fix play pattern with fw version 1.0.0.3
+1. Delete pattern integration
+1. Device setting implementation
+    * Change intensity 
+    * Chaneg color
+    * Control pad
+1. Remove add icon on the top
+
+[ParadiseV1.0.4](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_28_apr.apk.zip)
+
+---
+
 ## app-release(21/04/2026)
 1. Implemented tickets from #1 to #10
 1. Simplify the UI
