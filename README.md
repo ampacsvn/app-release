@@ -1,4 +1,20 @@
 # Release Note
+
+## app-release(12/05/2026)(OLD UI)
+1. Implemented Firmware OTA
+1. Pattern Playlist changes 
+1. Fix Change LED Pattern
+1. Fix UI Overlap with System Navigation Bar
+1. Pattern Share and Rename
+
+Note:
+- Currently, OTA is enabled with the "is_test = true" for testing, so you will always see new firmware-update
+- Please upgrade to firmware 1.0.0.3 to test the LED pattern change feature
+
+
+[ParadiseV1.0.5](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_12_may.apk.zip)
+
+
 ## app-release(28/04/2026)
 1. Share and scan qr private room
 1. Fix play pattern with fw version 1.0.0.3
