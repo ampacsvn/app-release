@@ -1,6 +1,19 @@
 # Release Note
 
 ## app-release(12/05/2026)(OLD UI)
+1. Search filters: Filter rooms by name or hashtag
+1. Play pattern chart
+1. Fix audio control room
+1. Fix max length text field
+
+
+[ParadiseV1.0.6](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_19_may.apk.zip)
+
+Note: 
+- still the old UI 
+
+
+## app-release(12/05/2026)(OLD UI)
 1. Implemented Firmware OTA
 1. Pattern Playlist changes 
 1. Fix Change LED Pattern
