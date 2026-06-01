@@ -1,6 +1,6 @@
 # Release Note
 
-## app-release(12/05/2026)(OLD UI)
+## app-release(19/05/2026)(OLD UI)
 1. Search filters: Filter rooms by name or hashtag
 1. Play pattern chart
 1. Fix audio control room
