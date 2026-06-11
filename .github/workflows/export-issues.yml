@@ -1,0 +1,38 @@
+name: Export issues to Excel
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'   # 每週一 01:00 UTC（台北時間 09:00）
+  workflow_dispatch:        # 允許手動觸發，方便測試
+
+permissions:
+  issues: read
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests openpyxl
+
+      - name: Export issues
+        run: python .github/scripts/export_issues.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_FILE: issues.xlsx
+
+      - name: Upload Excel artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: issues-report-${{ github.run_number }}
+          path: issues.xlsx
+          retention-days: 90
