@@ -8,12 +8,12 @@ https://github.com/orgs/ampacsvn/projects/13
  
 This is an app release note:
 1. Environment mode:
-- Fix play when turn on microphone.
-- Remove intensity slider.
-- Change custom color.
+    - Fix play when turn on microphone.
+    - Remove intensity slider.
+    - Change custom color.
 1. Live control:
-- Remove intensity silder.
-- Add led pattern and brightness
+    - Remove intensity silder.
+    - Add led pattern and brightness
 1. Added device only on successful pairing
 1. Add pattern custom in device customize
 
