@@ -4,6 +4,17 @@ https://github.com/orgs/ampacsvn/projects/13
 
 # Release Note
 
+## app-release(07/07/2026)
+
+1. Environment Mode
+    - Brightness is now automatically controlled by the audio and is no longer user-adjustable
+    - Updated lighting profiles: Profile 1 is Rainbow, Profile 2 is Color Shift (transitions between two colors), and Custom Color is dedicated to a single solid color.  
+1. Display app version in home screen
+1. Delete user
+
+[ParadiseV1.0.14](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_7_jul_1.0.14.apk.zip)
+ 
+
 ## app-release(23/06/2026)
  
 This is an app release note:
@@ -19,8 +30,6 @@ This is an app release note:
 
 
 [ParadiseV1.0.8](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_23_jun.apk.zip)
-
-# Release Note
 
 ## app-release(11/06/2026)(NEW UI)
 1. Implemented the new UI
