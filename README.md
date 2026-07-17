@@ -4,6 +4,15 @@ https://github.com/orgs/ampacsvn/projects/13
 
 # Release Note
 
+## app-release(14/07/2026)
+
+1. Home control multiple devices (only LED)
+2. Environment switcher and app version display (click profile -> about -> click repeatedly)
+3. Implement avatar editor
+
+[ParadiseV1.0.15](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_14_jul_1.0.15.apk.zip)
+ 
+
 ## app-release(07/07/2026)
 
 1. Environment Mode
