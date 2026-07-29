@@ -3,6 +3,20 @@ Create, Check, Delete, and review the issues on
 https://github.com/orgs/ampacsvn/projects/13
 
 # Release Note
+## app-release(28/07/2026)
+
+ 
+1. Implement real-time pattern control when creating patterns
+2. Unify playback stop handling across control screens
+3. Fix strength slider display in Patterns screen
+4. Fix firmware image display when creating a room
+5. Fix BLE device reconnection after app restart
+6. Fix multi-device mode and LED behavior on the home screen
+
+
+[ParadiseV1.0.17](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_28_jul_1.0.17.apk.zip)
+
+
 
 ## app-release(14/07/2026)
 
