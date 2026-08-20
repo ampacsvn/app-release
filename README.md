@@ -2,6 +2,20 @@
 Create, Check, Delete, and review the issues on 
 https://github.com/orgs/ampacsvn/projects/13
 
+## app-release(18/08/2026)
+
+1. Update minimum supported iOS version to 15
+1. Battery device:
+- Improve real-time battery monitoring
+- Show alert dialog when battery is low
+1. Add biometric authentication (Face ID / Touch ID)
+
+
+
+[ParadiseV1.0.20](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_18_aug_1.0.20.apk.zip)
+ 
+
+
 # Release Note
 ## app-release(28/07/2026)
 
@@ -18,18 +32,6 @@ https://github.com/orgs/ampacsvn/projects/13
 
 
 
-## app-release(18/08/2026)
-
-1. Update minimum supported iOS version to 15
-1. Battery device:
-- Improve real-time battery monitoring
-- Show alert dialog when battery is low
-1. Add biometric authentication (Face ID / Touch ID)
-
-
-
-[ParadiseV1.0.20](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_18_aug_1.0.20.apk.zip)
- 
 
 
 
