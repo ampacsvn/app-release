@@ -2,6 +2,16 @@
 Create, Check, Delete, and review the issues on 
 https://github.com/orgs/ampacsvn/projects/13
 
+
+## app-release(22/09/2026)
+
+Implemented: #60, #59, #58, #54, #53, #52, #51, #45, #48 
+
+[ParadiseV1.0.24](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_22_sep_1.0.24.apk.zip)
+ 
+
+
+
 ## app-release(18/08/2026)
 
 1. Update minimum supported iOS version to 15
