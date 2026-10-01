@@ -2,6 +2,15 @@
 Create, Check, Delete, and review the issues on 
 https://github.com/orgs/ampacsvn/projects/13
 
+## app-release()
+
+ 
+This is an app release note:
+1. Improved performance for live control and create pattern screens
+1. Implement charge lighting UI to device detail (#55)
+1. Implement preset lighting UI in music screen (#57)
+
+[ParadiseV1.0.25](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_29_sep_1.0.25.apk.zip)
 
 ## app-release(22/09/2026)
 
