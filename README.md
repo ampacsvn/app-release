@@ -1,6 +1,15 @@
 # Project management 
 Create, Check, Delete, and review the issues on 
 https://github.com/orgs/ampacsvn/projects/13
+## app-release(3/11/2026)
+
+This is an app release note:
+1. Add a new command for playing custom patterns, available exclusively on SDIL devices with firmware 1.0.0.7
+1. Implement charging lighting (#55)
+1. Add inline lighting and vibration controls for multi-device mode (#66)
+
+[ParadiseV1.0.29](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_3_nov_1.0.29.apk.zip)
+
 
 ## app-release()
 
