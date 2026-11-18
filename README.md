@@ -1,6 +1,18 @@
 # Project management 
 Create, Check, Delete, and review the issues on 
 https://github.com/orgs/ampacsvn/projects/13
+## app-release(17/11/2026)
+
+ 
+app release note:
+1. Add firmware images for Rose, NMDIL, and SDIL
+1. Add new firmware support for L-WAND-B-CVS and L-BLLT-B-CVS
+1. Fix an issue with device selection when opening the Live Control and Customize screens
+1. Fix an issue with custom pattern playback on Android
+
+[ParadiseV1.0.30](https://raw.githubusercontent.com/ampacsvn/app-release/refs/heads/master/App/app_release_17_nov_1.0.30.apk.zip)
+
+
 ## app-release(3/11/2026)
 
 This is an app release note:
